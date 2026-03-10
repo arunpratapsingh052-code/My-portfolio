@@ -6,11 +6,12 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Full Stack Blockchain Developer with 2 + years of experience building scalable web
+          applications using React.js, Angular, Next.js, Node.js, with a strong foundation in Web3
+          technologies and decentralized application development. Experienced
+          in building smart contracts, SPL tokens, NFTs, and blockchain-based
+          payment systems across networks such as Solana, Ethereum, Polygon,
+          and Binance Smart Chain.
         </p>
       </div>
     </div>
